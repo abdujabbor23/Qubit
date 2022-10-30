@@ -294,3 +294,136 @@
 .lorem-button-style{
     text-align: center;
 }
+
+.display-flex__width{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.content-color{
+    background-color:#17002E;
+    padding: 20px 50px;
+    margin: 15px;
+    border-radius: 10px;
+}
+ 
+
+.img-text-flex{
+    display: flex;
+}
+
+.display-text1{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.lorem-text-button{
+    line-height: 1.6;
+    border-bottom: solid;
+    color:#fff;
+}
+
+.display__style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#F5F5F5 ;
+}
+
+.text__width1{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.lorem__style{
+    line-height: 2.5;
+}
+
+.button-left__style{
+    border-radius: 30px;
+    border-style: none;
+    padding: 15px 50px;
+    margin-top: 80px;
+    background-color: #992cff;
+    color: #fff;
+}
+
+.becgraund-img{
+    background-image: url("../img/css\ bgi.png");
+    text-align: center;
+    padding: 80px;
+}
+
+.text-midle__style{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 0px;
+    color: #fff;
+}
+
+.button-img__styli2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.paragraph-button{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.button-img__styli2 img{
+   padding: 2px 15px; 
+}
+
+.button-style a{
+    text-decoration:none;
+    color: #fff;
+}
+
+.footer-site{
+    background-color: #17002E;
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.padding-footer{
+    padding: 30px 50px;
+}
+
+.display-footer{
+    display: flex;
+}
+
+.text-left__footer{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 30px;
+    color: #fff;
+}
+
+.footer-paragraph{
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.heading-2{
+    text-align: center;
+    color: #fff;
+}
+
+.image-flex{
+    display: flex;
+    align-items: center;
+}
+.image-flex div{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
